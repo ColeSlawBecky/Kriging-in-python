@@ -1,0 +1,3 @@
+Month,Metric,R-Squared,Optimal Kriging Options
+2011-03-13,air_temp_set_1,0.941416967081,"{'method': 'ordinary', 'nlags': 4, 'variogram_model': 'power', 'weight': True}"
+2011-03-13,dew_point_temperature_set_1d,0.900026903785,"{'method': 'ordinary', 'nlags': 4, 'variogram_model': 'power', 'weight': False}"
